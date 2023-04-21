@@ -16,5 +16,8 @@ git branch console
 
 git checkout console
 
-git add .
+git add .  (oldal betöltődés)
 
+git add .  (átmenetes háttérszín)
+
+git commit -m"Oldal betöltődés és CSS-ben a háttérszín megváltoztatva"  (1 commit-om van mert a végén jöttem rá hogy a rögzítés alatt commit-ra gondolt a feladat, nem csak add-ra)

@@ -27,3 +27,5 @@ git remote rm origin (nem tudtam feltölteni a saját repository-ba amíg másho
 git add .
 
 git commit -m"Végleges verzió rögzítve"
+
+$ git push -u origin main

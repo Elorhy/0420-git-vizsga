@@ -21,3 +21,9 @@ git add .  (oldal betöltődés)
 git add .  (átmenetes háttérszín)
 
 git commit -m"Oldal betöltődés és CSS-ben a háttérszín megváltoztatva"  (1 commit-om van mert a végén jöttem rá hogy a rögzítés alatt commit-ra gondolt a feladat, nem csak add-ra)
+
+git remote rm origin (nem tudtam feltölteni a saját repository-ba amíg máshoz volt csatolva)
+
+git add .
+
+git commit -m"Végleges verzió rögzítve"

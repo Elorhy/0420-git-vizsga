@@ -28,4 +28,4 @@ git add .
 
 git commit -m"Végleges verzió rögzítve"
 
-$ git push -u origin main
+$ git push -u origin console
